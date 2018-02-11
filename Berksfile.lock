@@ -1,7 +1,9 @@
 DEPENDENCIES
+  apt (~> 6.1.4)
   gfeopsworks
     path: .
     metadata: true
+  nginx (~> 7.0.2)
 
 GRAPH
   apt (6.1.4)
