@@ -1,5 +1,5 @@
 DEPENDENCIES
-  test
+  gfeopsworks
     path: .
     metadata: true
 
@@ -9,6 +9,9 @@ GRAPH
     mingw (>= 1.1)
     seven_zip (>= 0.0.0)
   compat_resource (12.19.1)
+  gfeopsworks (0.1.0)
+    apt (~> 6.1.4)
+    nginx (~> 7.0.2)
   mingw (2.0.1)
     seven_zip (>= 0.0.0)
   nginx (7.0.2)
@@ -20,9 +23,6 @@ GRAPH
   ohai (5.2.1)
   seven_zip (2.0.2)
     windows (>= 1.2.2)
-  test (0.1.0)
-    apt (~> 6.1.4)
-    nginx (~> 7.0.2)
   windows (3.4.4)
     ohai (>= 4.0.0)
   yum-epel (2.1.2)

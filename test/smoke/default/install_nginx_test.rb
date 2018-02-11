@@ -1,6 +1,6 @@
 # # encoding: utf-8
 
-# Inspec test for recipe test::install_nginx
+# Inspec test for recipe gfeopsworks::install_nginx
 
 # The Inspec reference, with examples and extensive documentation, can be
 # found at http://inspec.io/docs/reference/resources/

@@ -1,9 +1,9 @@
-name 'test'
+name 'gfeopsworks'
 maintainer 'gregfer'
 maintainer_email 'gregory.ferelloc@gmail.com'
 license 'All Rights Reserved'
-description 'Installs/Configures test'
-long_description 'Installs/Configures test'
+description 'Installs/Configures gfeopsworks'
+long_description 'Installs/Configures gfeopsworks'
 version '0.1.0'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 

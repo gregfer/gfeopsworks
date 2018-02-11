@@ -1,5 +1,5 @@
 #
-# Cookbook:: test
+# Cookbook:: gfeopsworks
 # Recipe:: install_nginx
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.

@@ -1,12 +1,12 @@
 #
-# Cookbook:: test
+# Cookbook:: gfeopsworks
 # Spec:: default
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.
 
 require 'spec_helper'
 
-describe 'test::install_nginx' do
+describe 'gfeopsworks::install_nginx' do
   context 'When all attributes are default, on Ubuntu 16.04' do
     let(:chef_run) do
       # for a complete list of available platforms and versions see:
